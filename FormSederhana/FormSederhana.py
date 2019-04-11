@@ -1,3 +1,4 @@
+![Screenshot (66)](https://user-images.githubusercontent.com/44077159/55980900-b6fc2e80-5cbf-11e9-9414-d8ebfd79b7b7.png)
 from PyQt5.QtWidgets import QWidget, QLabel
 
 class FormSederhana(QWidget):
