@@ -17,3 +17,9 @@ screenshot ToolTip
 
 ![Screenshot (71)](https://user-images.githubusercontent.com/44077159/55981707-83ba9f00-5cc1-11e9-96a0-095862cdf3c3.png)
 
+screenshot Latihan1
+
+![Screenshot (74)](https://user-images.githubusercontent.com/44077159/55982212-aac5a080-5cc2-11e9-805f-4f7ecb3f9a33.png)
+
+screenshot Latihan2
+
