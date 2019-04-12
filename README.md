@@ -25,3 +25,9 @@ screenshot Latihan2
 
 ![Screenshot (75)](https://user-images.githubusercontent.com/44077159/55982283-d47ec780-5cc2-11e9-9f6f-4cb4b4ddcc04.png)
 
+screenshot Latihan3
+
+![Screenshot (76)](https://user-images.githubusercontent.com/44077159/56014338-1e959680-5d1f-11e9-9bf9-2db8656d285b.png)
+
+screenshot Latihan4
+
