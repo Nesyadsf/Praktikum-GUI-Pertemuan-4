@@ -31,3 +31,4 @@ screenshot Latihan3
 
 screenshot Latihan4
 
+![Screenshot (77)](https://user-images.githubusercontent.com/44077159/56014373-4e449e80-5d1f-11e9-8c18-347bf0bb11b7.png)
